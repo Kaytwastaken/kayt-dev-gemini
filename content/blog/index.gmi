@@ -1,0 +1,6 @@
+=> / Home
+# Blog!
+
+=> /blog/kayt-dev-svelte.gmi 2022-03-19 /blog/kayt-dev-slevte.gmi
+=> /blog/moto-g6-repair.gmi 2021-07-28 /blog/moto-g6-repair.gmi
+

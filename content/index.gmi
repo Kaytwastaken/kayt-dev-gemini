@@ -1,4 +1,6 @@
 This page was last updated on 2022-3-19.
+=> /blog/        Blog
+=> /projects.gmi Projects
 
 # Hi! I'm Kayt!
 
@@ -17,12 +19,10 @@ I make stuff sometimes... and that's about it. I usually somewhat sarcastically 
 ### What languages do you know?
 I mostly work in TS and python, but I'm currently learning Svelte!
 
-As for human languages, English is obviosuly my first language, but I'm trying to self-teach myself Dutch and Japanese! I'm also interested in learning or learning about ASL, Ukranian, German, Cantonese, Tagalog, and Indonesian.
+As for human languages, English is obviosuly my first language, but I'm trying to self-teach myself Dutch and Japanese! I'm also interested in learning or learning about Esperanto, Ido, Toki Pona, ASL, Ukranian, German, Cantonese, Tagalog, and Indonesian.
 
 ### More from me!
-=> /log/                                Blog
-=> /projects.gmi                        Projects
-=> https://pk.kayt.dev                  PK-web
+=> https://pk.kayt.dev                  PK-web (see /projects above for more about it)
 => https://twitter.com/kayt_was_taken   Twitter
 => https://github.com/kaytwastaken      Github
 => https://instagram.com/kayt_was_taken Instagram

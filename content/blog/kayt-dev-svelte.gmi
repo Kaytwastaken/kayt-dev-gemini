@@ -1,0 +1,20 @@
+=> /      Home
+=> /blog/ Back
+# Guess who rewrote her blog again :D
+Published: 2022-3-19
+
+I was orignally planning to mirror the post of the same name on my website here, but I figured I could talk about my experience with Gemini instead!
+=> https://kayt.dev/blog/new-blog that post
+
+A while ago I saw a Medium article in my Google feed and thought it seemed interesting, and then yesterday night when I was bored I thought, yknow what, what if I mirrored my blog to gemini, that would be cool wouldn't it
+so I did that
+=> https://blog.devgenius.io/tired-of-the-modern-web-try-the-gemini-protocol-ba847f102fe6 that medium article ('Tired of the Modern Web? Try the ‘Gemini’ protocol')
+
+I have a habit of turning my tests into the production environment I eventually end up using, so no surprises here that it happened again- I popped open WSL for the first time in a while, downloaded agate and lagrange and started messing around
+at first I was mostly just learning how navigation and gmi markdown worked, but then i started moving content from my http-land site to here, and then that's mostly where i am now! eventually i want to learn how to do dynamic things (i saw a whole game in gemini???) and properly move my capsule onto my server instead of my desktop machine
+=> gemini://emii.gay/maze that game because its so cool (it requires a client cert, i use the identities in lagrange)
+
+unrelated to gemini stuff, but i saw someones page on ido and toki pona and it both of those look really cool and now i want to learn them???
+=> gemini://tilde.pink/~emily/log/ido-and-toki-pona.gmi that page
+
+ok anywayy byeee i should probably go to sleep and read more about how to do fancy shit in gemini :D

@@ -1,7 +1,9 @@
+=> / home
+
 ## Current Projects
 
 ### <Kayt.dev/>
-My website!
+My http-land site!
 => https://kayt.dev
 
 ### gemini://kayt.dev
