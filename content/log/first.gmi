@@ -1,0 +1,6 @@
+# This is a blog post!!
+
+this is a gmi file to test site navigation!
+
+=> https://kayt.dev/static/thanks-unsplash.jpg imag :)
+=> /home/node/kayt-dev-svelte/static/thanks-unsplash.jpg imag 2

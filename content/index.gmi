@@ -1,0 +1,29 @@
+This page was last updated on 2022-3-19.
+
+# Hi! I'm Kayt!
+
+You might know me as diet 7up, Kaytastrophe, Kayt_was_taken, or any of my other derivative usernames, but either way, you've found your way to my corner of the internet, in particular, the Gemini mirror of my personal site!
+
+Most content and the majority of my projects are still only available on the web, but all my blog posts will be available here!
+
+## About me
+
+### Who are you?
+I'm a student! My pronouns are she/they and I have way too many hobbies
+
+### What do you do?
+I make stuff sometimes... and that's about it. I usually somewhat sarcastically describe myself as an artist who rarely draws, a programmer who rarely programs, and a student who rarely studies.
+
+### What languages do you know?
+I mostly work in TS and python, but I'm currently learning Svelte!
+
+As for human languages, English is obviosuly my first language, but I'm trying to self-teach myself Dutch and Japanese! I'm also interested in learning or learning about ASL, Ukranian, German, Cantonese, Tagalog, and Indonesian.
+
+### More from me!
+=> /log/                                Blog
+=> /projects.gmi                        Projects
+=> https://pk.kayt.dev                  PK-web
+=> https://twitter.com/kayt_was_taken   Twitter
+=> https://github.com/kaytwastaken      Github
+=> https://instagram.com/kayt_was_taken Instagram
+
