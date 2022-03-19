@@ -1,6 +1,9 @@
-=> / Home
+=> / home
 # Blog!
 
-=> /blog/kayt-dev-svelte.gmi 2022-03-19 /blog/kayt-dev-slevte.gmi
-=> /blog/moto-g6-repair.gmi 2021-07-28 /blog/moto-g6-repair.gmi
+=> /blog/kayt-dev-svelte.gmi 2022-03-19 Updating my http-land blog
+=> /blog/moto-g6-repair.gmi 2021-07-28 Acetone, a three-year-old phone, and Right to Repair
 
+
+
+This page was last updated on 2022-3-19.

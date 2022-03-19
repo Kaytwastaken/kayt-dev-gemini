@@ -7,7 +7,7 @@ My http-land site!
 => https://kayt.dev
 
 ### gemini://kayt.dev
-My Gemini Capsule, and ongoing mirror of my blog!
+My Gemini Capsule! - an ongoing mirror of my blog
 => gemini://kayt.dev
 
 ### Kaytostrophic tweaks
@@ -19,3 +19,6 @@ Currently WIP
 ### PK-web
 An online editor for the PluralKit discord bot! (v0.1.0 - Still missing some features, will hopefully be rewritten in Svelte soon!)
 => https://pk.kayt.dev
+
+
+This page was last updated on 2022-3-19.
