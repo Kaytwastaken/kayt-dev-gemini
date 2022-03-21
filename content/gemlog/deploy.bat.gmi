@@ -1,0 +1,38 @@
+=> /      Home
+=> /blog/ Back
+# smol deploy script
+Published: 2022-3-21
+
+its probably rather ineficient, but idrc
+to host my capsule im running agate on my linux box and pulling from a private git repo
+to update that repo, im just using GH desktop on my machine, and running a remote deply script over ssh
+```deploy.sh on my server
+# clear
+cd ~/kayt-dev-gemini/
+echo "---------- Pulling from git ----------"
+git pull git@github.com:Kaytwastaken/kayt-dev-gemini.git
+echo "------- Restarting pm2 process -------"
+echo "        -> pm2 delete kayt-dev-gemini"
+echo "        -> ./start.sh"
+pm2 delete kayt-dev-gemini
+./start.sh
+echo "------------ Deploy done -------------"
+```
+
+```start.sh on my server
+echo "-Starting kayt-dev-gemini Agate server in pm2-"
+pm2 --name kayt-dev-gemini start "~/kayt-dev-gemini/bin/agate --hostname kayt.dev --content ~/kayt-dev-gemini/content/ --lang en-US"
+pm2 save
+```
+
+but naturally, i went, "what if i didn't need to open GHD to push to git"
+so then i threw together deploy.bat on my machine
+
+```deploy.bat on my desktop
+git commit -m %1
+git push
+ssh -t node@neuromancer ~/kayt-dev-gemini/deploy.sh
+```
+
+this is also the uh,, first time ive used git in the command line
+so i quickly learned that i need to ```git add ...``` before commiting, so the script isn't,,, /overly/ useful, but i still like it! :D
