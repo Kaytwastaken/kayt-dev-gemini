@@ -29,10 +29,18 @@ but naturally, i went, "what if i didn't need to open GHD to push to git"
 so then i threw together deploy.bat on my machine
 
 ```deploy.bat on my desktop
+IF [%1] == [] GOTO Exit
+
 git commit -m %1
 git push
 ssh -t node@neuromancer ~/kayt-dev-gemini/deploy.sh
+
+:Exit
+exit
+
 ```
 
-this is also the uh,, first time ive used git in the command line
-so i quickly learned that i need to ```git add ...``` before commiting, so the script isn't,,, /overly/ useful, but i still like it! :D
+this is also the uh,, first time ive used git in the command line and the first time ive really used batch scripting
+so i quickly learned that i need to git add  before commiting, so the script isn't,,, /overly/ useful, but i still like it!
+i also learned how to do conditionals (kinda) in batch!
+also console go brr and it make brain go :D
