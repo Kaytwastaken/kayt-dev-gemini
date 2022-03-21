@@ -1,7 +1,7 @@
 => / home
 # Gemlog!
 
-=> /gemlog/deploy.bat.gmi 2022-3-21 small deploy.bat script for updating the capsule
+=> /gemlog/deploy.bat.gmi 2022-03-21 small deploy.bat script for updating the capsule
 
 
 This page was last updated on 2022-3-21.
