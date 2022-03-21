@@ -10,6 +10,7 @@
 ```
 # Hi! I'm Kayt!
 => /blog/        Blog
+=> /gemlog/      Gemlog (much shorter posts)
 => /projects.gmi Projects
 
 You might know me as diet 7up, Kaytastrophe, Kayt_was_taken, or any of my other derivative usernames, but either way, you've found your way to my corner of the internet, in particular, the Gemini mirror of my personal site!
@@ -32,6 +33,7 @@ As for human languages, English is obviosuly my first language, but I'm trying t
 ### More from me!
 => gemini://station.martinrue.com/diet_7up Station!
 => /blog/                                  Blog
+=> /gemlog/                                Gemlog (much shorter posts)
 => /projects.gmi                           Projects
 => https://pk.kayt.dev                     PK-web (see /projects above for more about it)
 => https://twitter.com/kayt_was_taken      Twitter
