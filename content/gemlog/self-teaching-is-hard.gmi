@@ -1,0 +1,21 @@
+=> /        Home
+=> /gemlog/ Back
+# self teaching is hard
+Published: 2022-03-22
+
+title ._.
+im trying to rewrite pk-web in svelte right
+and thats cool and all, awesome framework, good language, cool cool whatever
+but then like, as i was writing the first version in next and react, i found a better version that someone else had written (and they were and still are in the process of rewriting it in svelte, that's why i decided to move mine to svelte as well) so some of my motivation for the project kinda died since someone else had beat me to the idea and did it better
+but me being the spite filled person i am, finished the part i had been working on, and resolved to move onto rewiting later
+well, im at that rewriting step, and hnnnggg teaching myself is hard
+since im working in the same framework, i can read the source from that other project so i thought id do that to get a feel for how to do things
+but im looking at the source right, and in some places i have absolutely 0 idea wtf is even happening
+like
+theres one file
+that i just
+have no clue whats happening
+and the only reason that is, is because i actually have very little experience in js and even less ts
+so there could be some very obvious things that i just dont understand because i dont know of the relavent features of the language
+and the worst part, is i dont know where to go to learn those things
+._.
