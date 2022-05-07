@@ -13,9 +13,9 @@
 => /gemlog/      Gemlog (much shorter posts)
 => /projects.gmi Projects
 
-You might know me as diet 7up, Kaytastrophe, Kayt_was_taken, or any of my other derivative usernames, but either way, you've found your way to my corner of the internet, in particular, the Gemini mirror of my personal site!
+You might know me as diet 7up, Kaytastrophe, Kayt_was_taken, or any of my other derivative usernames, but either way, you've found your way to my corner of Geminispace!
 
-Most content and the majority of my projects are still only available on the web, but all my blog posts will be available here!
+Most content and the majority of my projects are still only available in HTTP land, but all my blog posts will be available here!
 
 ## About me
 
