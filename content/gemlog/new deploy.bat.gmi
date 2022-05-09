@@ -1,0 +1,52 @@
+=> /        Home
+=> /gemlog/ Back
+# slightly less smol deploy script :D
+Published: 2022-05-09
+
+so i made another deploy script lol
+it looks like
+
+```
+@ECHO OFF
+
+IF [%1] == [-h] GOTO Help
+IF [%1] == [--help] GOTO Help
+
+:Npm
+IF [%2] == [] GOTO Git
+echo Bumping project version ...
+npm version %2
+
+:Git
+IF [%1] == [] GOTO Remote
+echo Creating git commit ...
+git add -A
+git commit -m %1
+git push
+
+:Remote
+echo Deploying on remote ...
+ssh -t node@neuromancer ~/pk-web-svelte/deploy.sh
+
+:Exit
+echo Deploy finished
+echo Exiting ...
+exit
+
+:Help
+echo:
+echo -=-=-=- Remote deploy script help -=-=-=-
+echo:
+echo deploy.bat                                             // Only runs remote deploy script over ssh
+echo deploy.bat ^[-h ^| --help^]                               // Prints this help
+echo deploy.bat ^['commit message'^]                          // Pushes a commit with all unstaged changes and the specified commit message
+echo deploy.bat ^['commit message'^] ^[major ^| minor ^| patch^]  // Bumps project version by specified ID and "^"
+echo:
+echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+echo:
+```
+
+basically i got tired of doing finals and got distracted by website stuff,
+sooo, since doing commits from github desktop is so horribly inefficient i wrote another deploy script sdjhfbvg :D
+
+anyway drink water go outside have a nice day idk
