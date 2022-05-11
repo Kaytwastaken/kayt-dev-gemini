@@ -1,5 +1,5 @@
-=> /        Home
-=> /gemlog/ Back
+=> / ↵ main deck
+=> /third-shelf.gmi ↵ back
 # asdf
 Published: 202x-xx-xx
 
