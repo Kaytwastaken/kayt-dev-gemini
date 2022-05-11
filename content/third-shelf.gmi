@@ -9,7 +9,7 @@
 
 ### Gemlog!
 
-=> /gemlog/redesign.gmi 2022-05-11 i redesignedmy capsule!
+=> /gemlog/redesign.gmi 2022-05-11 i redesigned my capsule!
 => /gemlog/do-i-cope-weird.gmi 2022-05-11 programming is my weird coping mechanism
 => /gemlog/new-deploy.bat.gmi 2022-05-09 another deploy script for pk-web lol
 => /gemlog/deploy.bat.gmi 2022-03-21 small deploy.bat script for updating the capsule
