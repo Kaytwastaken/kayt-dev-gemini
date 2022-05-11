@@ -1,44 +1,22 @@
-``` <kayt.dev/>
-    ___      ___  __    ________      ___    ___ _________                 ________  _______   ___      ___           ___ ___    
-   /  /|    |\  \|\  \ |\   __  \    |\  \  /  /|\___   ___\              |\   ___ \|\  ___ \ |\  \    /  /|         /  /|\  \   
-  /  / /    \ \  \/  /|\ \  \|\  \   \ \  \/  / ||___ \  \_|              \ \  \_|\ \ \   __/|\ \  \  /  / /        /  //\ \  \  
- /  / /      \ \   ___  \ \   __  \   \ \    / /     \ \  \                \ \  \ \\ \ \  \_|/_\ \  \/  / /        /  //  \ \  \ 
-|\  \/        \ \  \\ \  \ \  \ \  \   \/  /  /       \ \  \      ___       \ \  \_\\ \ \  \_|\ \ \    / /        /  //    \/  /|
-\ \  \         \ \__\\ \__\ \__\ \__\__/  / /          \ \__\    |\__\       \ \_______\ \_______\ \__/ /        /_ //     /  // 
- \ \__\         \|__| \|__|\|__|\|__|\___/ /            \|__|    \|__|        \|_______|\|_______|\|__|/        |__|/     /_ //  
-  \|__|                             \|___|/                                                                              |__|/                                                                                                                                 
-```
-# Hi! I'm Kayt!
-=> /blog/        Blog
-=> /gemlog/      Gemlog (much shorter posts)
-=> /projects.gmi Projects
+## ✨ S.S Kaytastrophe
 
-You might know me as diet 7up, Kaytastrophe, Kayt_was_taken, or any of my other derivative usernames, but either way, you've found your way to my corner of Geminispace!
+### hi! im kayt!
+you've found you way to the main deck of my home in the gemverse! there's little here, so i suggest you explore the rest of the ship
 
-Most content and the majority of my projects are still only available in HTTP land, but all my blog posts will be available here!
+> the walls of the small, somewhat decepit, spacecraft are a little barren right now, though it seems the common area you're currently standing in has had some love and attention
 
-## About me
+=> /captains-room.gmi captain's room 
+=> /reading-room.gmi  the library
+=> /projects.gmi/     project board
 
-### Who are you?
-I'm a student! My pronouns are she/they and I have way too many hobbies
+> towards one wall of the common room, you see a shelf with some notebooks and scattered pages. upon closer inspection, it appears to be a copy of all the captain's writings outside of the library for quicker reading
+=> /third-shelf.gmi
 
-### What do you do?
-I make stuff sometimes... and that's about it. I usually somewhat sarcastically describe myself as an artist who rarely draws, a programmer who rarely programs, and a student who rarely studies.
-
-### What languages do you know?
-I mostly work in TS and python, but I'm currently learning Svelte!
-
-As for human languages, English is obviosuly my first language, but I'm trying to self-teach myself Dutch and Japanese! I'm also interested in learning or learning about Esperanto, Ido, Toki Pona, ASL, Ukranian, German, Cantonese, Tagalog, and Indonesian.
-
-### More from me!
-=> gemini://station.martinrue.com/diet7up  Station!
-=> /blog/                                  Blog
-=> /gemlog/                                Gemlog (much shorter posts)
-=> /projects.gmi                           Projects
-=> https://pk.kayt.dev                     PK-web (see /projects above for more about it)
-=> https://twitter.com/kayt_was_taken      Twitter
-=> https://github.com/kaytwastaken         Github
-=> https://instagram.com/kayt_was_taken    Instagram
+### more stuff from me
+=> gemini://station.martinrue.com/diet7up  station!
+=> https://kayt.dev                        less gemini version of my website
+=> https://pk.kayt.dev                     pk-web (see the project board)
+=> https://github.com/kaytwastaken         github
 
 
-This page was last updated on 2022-3-21.
+This page was last updated on 2022-05-11.

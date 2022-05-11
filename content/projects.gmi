@@ -1,24 +1,16 @@
-=> / home
+=> / ↵ main deck
 
-## Current Projects
+## current projects
 
-### <Kayt.dev/>
-My http-land site!
-=> https://kayt.dev
+> the project board has all the captain's ongoing ideas pinned up to it with some notes connected to some of them
 
 ### gemini://kayt.dev
-My Gemini Capsule! - an ongoing mirror of my blog
-=> gemini://kayt.dev
+=> / ✨ S.S Kaytastrophe
 
-### Kaytostrophic tweaks
-A bunch of small Minecraft resource packs with vanilla-esque tweaks!
-```
-Currently WIP
-```
+### <kayt.dev/>
+my other less gemini website
+=> https://kayt.dev kayt.dev
 
-### PK-web
-An online editor for the PluralKit discord bot! (v0.1.0 - Still missing some features, will hopefully be rewritten in Svelte soon!)
-=> https://pk.kayt.dev
-
-
-This page was last updated on 2022-3-19.
+### pk-web-svelte
+an editor for pluralkit
+=> https://pk.kayt.dev pk-web-svelte

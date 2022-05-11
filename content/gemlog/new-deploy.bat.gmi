@@ -1,5 +1,5 @@
-=> /        Home
-=> /gemlog/ Back
+=> / ↵ main deck
+=> /third-shelf.gmi ↵ back
 # slightly less smol deploy script :D
 Published: 2022-05-09
 

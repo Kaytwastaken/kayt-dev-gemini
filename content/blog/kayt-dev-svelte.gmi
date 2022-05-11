@@ -1,5 +1,5 @@
-=> /      Home
-=> /blog/ Back
+=> / ↵ main deck
+=> /third-shelf.gmi ↵ back
 # Guess who rewrote her blog again :D
 Published: 2022-3-19
 

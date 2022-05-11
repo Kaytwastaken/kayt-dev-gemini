@@ -1,0 +1,37 @@
+=> / ↵ main deck
+
+## The library
+
+> the library is a medium sized-room with a coffee table in the center surrounded by a couch on one side, a small table and some chairs by a large window behind it, and bean bags to the other side. behind the couch is a bookshelf with all the captain's favorites and recommendations. they don't seem to be arranged in any particular order. there's also a shelf dedicated to her notes and writings.
+
+### top shelf
+* red rising - pierce brown
+* golden son - pierce brown
+* morning star - pierce brown
+* iron gold - pierce brown
+* ready player one - ernest cline
+* enders game - orson scott card
+* what if? - randall monroe
+* the maze runner - james dashner
+* the scorch trials - james dashner
+* the death cure - james dashner
+* the kill order - james dashner
+* the fever code - james dashner
+* mouseheart - lisa fiedler
+* that inevitable victorian thing - e.k. johnston
+
+### second shelf
+* im the grim reaper (webtoon) - graveweaver
+* mage and demon queen (webtoon) - color_les
+* blue matter (webtoon) - forgotuser
+* made in abyss - akihito tsukushi
+* darling in the franxx - code:000
+* brave new world - aldous huxley
+
+### third shelf
+=> /third-shelf.gmi
+* blog - kayt
+* gemlog - kayt
+> there's a note left that reads:
+> when there's something of note i'd like to share, i'll link it directly here, but for now all my posts are at /third-shelf
+> ~kayt

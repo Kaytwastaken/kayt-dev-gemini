@@ -1,11 +1,11 @@
-=> /      Home
-=> /blog/ Back
+=> / ↵ main deck
+=> /third-shelf.gmi ↵ back
 # Acetone, a three-year-old phone, and Right to Repair
 Published: 2021-7-28
+Edited: 2022-05-11
 
 ## Flashing Android and some background
-As you may know if you follow me on Twitter, I’ve been dabbling in the world of custom Android ROMs for about 3 months now (i think? tbh i cant remember). It started with flashing my old Nexus 5x with Lineage 15 - I will be forever grateful to the engineers who made it so easy to unlock the bootloader on that phone - then I moved on to my brother’s old Moto g7 (hereby referred to as just Moto). I was rather disappointed that unlocking the bootloader was a more involved process, but at least Motorola still made it easy.
-=> https://twitter.com/kayt_was_taken Twitter link
+As you may know if had followed me on Twitter, I’ve been dabbling in the world of custom Android ROMs for about 3 months now (i think? tbh i cant remember). It started with flashing my old Nexus 5x with Lineage 15 - I will be forever grateful to the engineers who made it so easy to unlock the bootloader on that phone - then I moved on to my brother’s old Moto g7 (hereby referred to as just Moto). I was rather disappointed that unlocking the bootloader was a more involved process, but at least Motorola still made it easy.
 
 If I remember correctly, the process is essentially:
 * Run a command over adb to get a device ID
@@ -69,5 +69,4 @@ Anyway, like I said, I’m planning on flashing the g6 with A11, but I’ve also
 => https://www.youtube.com/user/JerryRigEverything JerryRigEverything
 => https://www.youtube.com/user/rossmanngroup      Louis Rossman
 
-‘til next time, thanks for reading, check me out on XDA, and uhh drink water :)
-=> https://forum.xda-developers.com/m/kayt_was_taken.11697793/ XDA
+‘til next time, thanks for reading, and uhh drink water :)

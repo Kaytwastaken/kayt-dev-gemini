@@ -1,5 +1,5 @@
-=> /      Home
-=> /blog/ Back
+=> / ↵ main deck
+=> /third-shelf.gmi ↵ back
 # Pk-web-svelte v0.3.0!
 Published: 2022-05-07
 
