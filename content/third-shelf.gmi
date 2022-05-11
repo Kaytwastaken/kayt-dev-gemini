@@ -3,16 +3,16 @@
 
 ### Blog!
 
-=> /blog/pk-web-v0.3.0.gmi 2022-05-07           Pk-web-svelte v0.3.0!
-=> /blog/kayt-dev-svelte.gmi 2022-03-19         Updating my http-land blog
-=> /blog/moto-g6-repair.gmi 2021-07-28          Acetone, a three-year-old phone, and Right to Repair
+=> /blog/pk-web-v0.3.0.gmi 2022-05-07 Pk-web-svelte v0.3.0!
+=> /blog/kayt-dev-svelte.gmi 2022-03-19 Updating my http-land blog
+=> /blog/moto-g6-repair.gmi 2021-07-28 Acetone, a three-year-old phone, and Right to Repair
 
 ### Gemlog!
 
-=> /gemlog/redesign.gmi 2022-05-11              i redesigned my capsule!
-=> /gemlog/do-i-cope-weird.gmi 2022-05-11       programming is my weird coping mechanism
-=> /gemlog/new-deploy.bat.gmi 2022-05-09        another deploy script for pk-web lol
-=> /gemlog/deploy.bat.gmi 2022-03-21 small      deploy.bat script for updating the capsule
+=> /gemlog/redesign.gmi 2022-05-11 i redesignedmy capsule!
+=> /gemlog/do-i-cope-weird.gmi 2022-05-11 programming is my weird coping mechanism
+=> /gemlog/new-deploy.bat.gmi 2022-05-09 another deploy script for pk-web lol
+=> /gemlog/deploy.bat.gmi 2022-03-21 small deploy.bat script for updating the capsule
 => /gemlog/self-teaching-is-hard.gmi 2022-03-22 self teaching is hard
 
 ### Creative works!
